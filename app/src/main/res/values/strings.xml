@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My App Portfolio</string>
+    <string name="the_cat_in_the_hat">The Cat In the Hat Apps</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_the_cat">The Cat</string>
+    <string name="button_the_thing1">Thing 1</string>
+    <string name="button_the_thing2">Thing 2</string>
+    <string name="button_thingamajigger">Thingamajigger</string>
+    <string name="button_sally">Sally</string>
+    <string name="button_nick">Nick</string>
+    <string name="button_dr_seuss">Dr. Seuss</string>
+
+</resources>
